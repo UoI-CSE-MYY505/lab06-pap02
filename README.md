@@ -2,7 +2,8 @@
 
 ## UoI-CSE-MYY505 lab06
 
-## First-Name Last-Name
+## PAPPAS STYLIANOS
+##AM 5068
 
 **TODO - Update your name in this readme. Leave 1 space after the ## to preserve the text formating (markdown)**
 
